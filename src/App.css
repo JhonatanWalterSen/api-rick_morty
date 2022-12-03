@@ -74,3 +74,12 @@ img{
   line-height: 30px;
   font-weight: 400;
 }
+
+#Dark{
+  background-color: #1c1b29;
+  color: #fbb832;
+}
+#Light{
+  background-color: #fff;
+  color: #1c1b29;
+}
